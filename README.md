@@ -3,7 +3,7 @@
 Welcome to my portfolio! This website showcases my skills, projects, and achievements in tech, coding, and content creation.  
 
 ## 🌟 About Me  
-I am an art, computer science, and tech student from Madhya Pradesh, India. Passionate about coding and digital innovation, I work on mobile app development, AI, and YouTube content creation.  
+I am an art, computer science, and tech student from Kanpur, India. Passionate about coding and digital innovation, I work on mobile app development, AI, and YouTube content creation.  
 
 ## 🔥 Skills  
 - **Programming:** Flutter, HTML, CSS, JavaScript  
@@ -16,4 +16,5 @@ I am an art, computer science, and tech student from Madhya Pradesh, India. Pass
 ---
 
 ⭐ **Feel free to explore my projects and contribute!**
+
 
